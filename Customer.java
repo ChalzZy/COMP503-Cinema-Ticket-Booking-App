@@ -5,7 +5,7 @@
  * based on the information given by the ticket class. It prints to console
  * a representation of the a customer which includes: name, ge and the student status.
  * </p>
- * @author Charles Monaghan (Student ID: 18012390)
+ * @author Charles Monaghan
  * @version 1.0
  */
 package cinemaBookingApplication;
