@@ -5,7 +5,7 @@
  * Based on the information (Customer Age, Student Status, etc), this class will
  * calculate the appropriate price for the customer.
  * </p>
- * @author Charles Monaghan (Student ID: 18012390)
+ * @author Charles Monaghan
  * @version 1.0
  */
 package cinemaBookingApplication;
