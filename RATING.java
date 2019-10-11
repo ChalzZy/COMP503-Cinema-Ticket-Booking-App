@@ -4,7 +4,7 @@
 	This class sets the rating for the film and helps calculate the 
 	price of the chosen film.
  * </p>
- * @author Charles Monaghan (Student ID: 18012390)
+ * @author Charles Monaghan
  * @version 1.0
  */
 package cinemaBookingApplication;
