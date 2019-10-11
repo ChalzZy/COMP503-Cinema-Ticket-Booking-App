@@ -4,7 +4,7 @@
  * This class sets a title for the film and grabs the rating of the film from
  * the RATING class. It returns a string representation of the film and rating.
  * </p>
- * @author Charles Monaghan (Student ID: 18012390)
+ * @author Charles Monaghan
  * @version 1.0
  */
 package cinemaBookingApplication;
