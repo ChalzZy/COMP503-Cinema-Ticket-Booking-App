@@ -7,7 +7,7 @@
  * <b>Note:</b> The program requires accurate inputs from
  * the user as there is no input validation.
  * 
- * @author Charles Monaghan (Student ID: 18012390)
+ * @author Charles Monaghan
  * @version 1.0
  */
 package cinemaBookingApplication;
